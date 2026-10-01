@@ -166,3 +166,20 @@ footer {
 .formulario-registro button:active {
     transform: translateY(0);
 }
+
+#correo {
+    padding: 0.6rem 0.7rem;
+    border: 1px solid #9ca3af;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#contraseña {
+    padding: 0.6rem 0.7rem;
+    border: 1px solid #9ca3af;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+}
