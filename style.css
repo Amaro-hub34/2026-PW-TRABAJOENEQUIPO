@@ -158,3 +158,11 @@ footer {
     font-family: 'Courier New', Courier, monospace;
     letter-spacing: 1px;
 }
+
+.formulario-registro button:hover {
+    background-color: #3b82f6;
+}
+
+.formulario-registro button:active {
+    transform: translateY(0);
+}
