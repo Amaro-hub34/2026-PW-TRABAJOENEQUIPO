@@ -141,3 +141,20 @@ footer {
     color: #1f2937;
     text-align: center;
 }
+
+#nombre {
+    padding: 0.6rem 0.7rem;
+    border: 1px solid #9ca3af;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boleta {
+    padding: 0.6rem 0.7rem;
+    border: 1px solid #9ca3af;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+}
