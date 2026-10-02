@@ -167,7 +167,7 @@ footer {
     transform: translateY(0);
 }
 
-#correo {
+#email {
     padding: 0.6rem 0.7rem;
     border: 1px solid #9ca3af;
     border-radius: 0.4rem;
@@ -175,7 +175,7 @@ footer {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#contraseña {
+#password {
     padding: 0.6rem 0.7rem;
     border: 1px solid #9ca3af;
     border-radius: 0.4rem;
