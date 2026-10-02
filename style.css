@@ -159,11 +159,11 @@ footer {
     letter-spacing: 1px;
 }
 
-.formulario-registro button:hover {
+.btn-submit :hover {
     background-color: #3b82f6;
 }
 
-.formulario-registro button:active {
+.btn-submit :active {
     transform: translateY(0);
 }
 
